@@ -1,5 +1,5 @@
 # Mini PDF Q&A (Minimal)
-![Alt text](example.png)
+![Alt text](mini-pdf-qa.png)
 This is a minimal Next.js app that fulfills the task:
 Approach
 
